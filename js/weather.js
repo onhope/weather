@@ -1,4 +1,4 @@
-const API_KEY = 'e543e844eef63b453a5925b31becac3f';
+const API_KEY = 'aaaacea872f1f2a59197db45c6a49c7b';
 const locationDisplay = document.querySelector(".location");
 const temperatureDisplay = document.querySelector(".temperature > span");
 const weatherDisplay = document.querySelector(".weather > img")
